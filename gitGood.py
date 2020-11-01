@@ -1,0 +1,1 @@
+#This script will make a push to gitHub everyday to make you and your employer's happy
